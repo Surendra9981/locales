@@ -1462,6 +1462,7 @@
   "Max Appearances": "Max Appearances-ODIN",
   "Alert All for Click-to-Dial Calls": "Alert All for Click-to-Dial Calls-ODIN",
   "Alert All for Group Paging Call": "Alert All for Group Paging Call-ODIN",
+  "Alert All for Group Paging Calls": "Alert All for Group Paging Calls-ODIN",
   "Allow Call Retrieve from Another Location": "Allow Call Retrieve from Another Location-ODIN",
   "Multiple Call Arrangement Active": "Multiple Call Arrangement Active-ODIN",
   "Allow Bridging Between Locations": "Allow Bridging Between Locations-ODIN",
@@ -1475,5 +1476,6 @@
   "Use Group Name": "Use Group Name-ODIN",
   "Allow Department Name Override": "Allow Department Name Override-ODIN",
   "Calling Line ID Group Number": "Calling Line ID Group Number-ODIN",
-  "Calling Line ID Group Name": "Calling Line ID Group Name-ODIN"
+  "Calling Line ID Group Name": "Calling Line ID Group Name-ODIN",
+  "Endpoints": "Endpoints-ODIN"
 }
