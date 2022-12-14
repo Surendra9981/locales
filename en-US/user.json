@@ -254,5 +254,6 @@
   "Integrated IMP": "Integrated IMP-ODIN",
   "Enable This Location": "Enable This Location-ODIN",
   "Allow Origination From This Location": "Allow Origination From This Location-ODIN",
-  "Allow Termination To This Location": "Allow Termination To This Location-ODIN"
+  "Allow Termination To This Location": "Allow Termination To This Location-ODIN",
+  "User ID or Delete": "User ID or Delete-ODIN"
 }
