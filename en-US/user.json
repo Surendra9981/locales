@@ -255,5 +255,10 @@
   "Enable This Location": "Enable This Location-ODIN",
   "Allow Origination From This Location": "Allow Origination From This Location-ODIN",
   "Allow Termination To This Location": "Allow Termination To This Location-ODIN",
-  "User ID or Delete": "User ID or Delete-ODIN"
+  "User ID or Delete": "User ID or Delete-ODIN",
+  "Endpoints": "Endpoints-ODIN",
+  "Aliases": "Aliases-ODIN",
+  "Alias 1": "Alias 1-ODIN",
+  "Alias 2": "Alias 2-ODIN",
+  "Alias 3": "Alias 3-ODIN"
 }
